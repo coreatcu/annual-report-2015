@@ -163,7 +163,6 @@ i {
 
 #headerwrap i:hover,
 #headerwrap i:focus {
-    color: #262626;
     text-decoration: none;
     outline: 0;
 }
