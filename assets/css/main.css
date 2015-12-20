@@ -118,8 +118,8 @@ i {
 	color: #3498db; 
 }
 
-/* HeaderWrap */
-#headerwrap {
+/* Top */
+#top {
 	background: #fa5552;
 	padding-top: 200px;
 	background-attachment: relative;
@@ -138,7 +138,7 @@ i {
     background-size: cover;
 }
 
-#headerwrap h1 {
+#top h1 {
 	margin-top: 80px;
 	color: white;
     float: center;
@@ -147,12 +147,12 @@ i {
 	letter-spacing: 1px;
 }
 
-#headerwrap h3 {
+#top h3 {
     color: white;
     margin-bottom: 60px;
 }
 
-#headerwrap i {
+#top i {
     color: #ffffff;
     margin-top: 100px;
     word-wrap: break-word;
@@ -163,14 +163,14 @@ i {
     transition: color 0.1s ease-in, background 0.1s ease-in;
 }
 
-#headerwrap i:hover,
-#headerwrap i:focus {
+#top i:hover,
+#top i:focus {
     text-decoration: none;
     outline: 0;
 }
 
-#headerwrap i:before,
-#headerwrap i:after {
+#top i:before,
+#top i:after {
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
     -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
     -ms-transition: color 0.1s ease-in, background 0.1s ease-in;
