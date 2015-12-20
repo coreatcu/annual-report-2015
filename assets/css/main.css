@@ -115,6 +115,10 @@ a:after {
 	width: 280px;
 }
 
+.cover-photo img{
+    width: 100%;
+}
+
 i {
     margin: 8px;
 	color: #3498db; 
